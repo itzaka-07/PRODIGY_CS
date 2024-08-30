@@ -4,7 +4,7 @@ PRODIGY INTERNSHIP - CYBER SECURITY
 I would like to express my gratitude to Prodigy Infotech for providing me with the opportunity to work on these projects and for the invaluable support and guidance throughout my internship journey. Here is my approach on the tasks provided to me: 
 
 TASK 1: IMPLEMENT CAESAR CIPHER 
-         Understood about the Caesar Cipher Encryption Decryption Technique and implemented it using python.
+        Created a Python-based Caesar Cipher tool that can both encrypt and decrypt messages by shifting characters according to a user-defined key.
 
 TASK 2: PIXEL MANIPULATION FOR IMAGE ENCRYPTION 
          In this program, basic mathematical operation (XOR) are used to encrypt and decrypt the image.
